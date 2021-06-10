@@ -1,2 +1,5 @@
-.idea
-venv
+.idea/
+venv/
+build/
+dist/
+pdf_creator.egg-info/
